@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full stack developer who builds, maintains and improves enterprise web applications. I enjoy the unglamorous but important work: tracking down production issues, shipping client-requested enhancements, and tuning SQL so apps stay fast and consistent.
+I'm a full stack developer who builds, maintains and improves enterprise web applications.
 
 ---
 
