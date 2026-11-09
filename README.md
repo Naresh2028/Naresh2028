@@ -16,12 +16,6 @@
 
 I'm a full stack developer who builds, maintains and improves enterprise web applications. I enjoy the unglamorous but important work: tracking down production issues, shipping client-requested enhancements, and tuning SQL so apps stay fast and consistent.
 
-Before software, I spent 2+ years in banking and financial services (HDB Financial Services, Axis Bank). That gave me real experience dealing with customers and understanding business requirements, which I now bring into the way I read requirements and communicate with teams.
-
-- 🔧 Strong in **debugging, production support and feature enhancements**
-- 🤝 Comfortable mentoring juniors and working with cross-functional teams
-- 🤖 Use AI tools (Claude, Codex, Cursor) to speed up development, while still reviewing everything myself
-
 ---
 
 ## 🛠️ Tech Stack
