@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Naresh 👋</h1>
-<h3 align="center">Full Stack .NET, React Angular Developer</h3>
+<h3 align="center">Full Stack .NET Developer</h3>
 
 <p align="center">
   Building reliable enterprise web apps with <b>ASP.NET Core</b>, <b>React</b>,<b>Angular</b> and <b>SQL Server</b>
